@@ -86,7 +86,7 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 
 ## 💬 Citation
 
-> Un bon Dev ne se contente pas d'écrire du code, il comprends et crée une expérience utilisateur fluide et efficace  
+> Un bon Dev ne se contente pas d'écrire du code, il comprend et crée une expérience utilisateur fluide et efficace  
 
 
 ---
@@ -100,5 +100,6 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 <div align="center">
   <h3>💡 Toujours en apprentissage, toujours en construction. Connectons-nous ! 💡</h3>
 </div>
+
 
 
